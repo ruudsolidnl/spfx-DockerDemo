@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "docker-demo-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/dockerDemo/DockerDemoWebPart.js",
+          "manifest": "./src/webparts/dockerDemo/DockerDemoWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "localizedResources": {
+    "DockerDemoWebPartStrings": "lib/webparts/dockerDemo/loc/{locale}.js"
+  },
+  "externals": {}
+}

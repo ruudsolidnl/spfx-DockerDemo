@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "spfx-docker-demo",
+    "libraryId": "938e93a3-4030-4d24-a067-ff75581fdc2a",
+    "environment": "onprem"
+  }
+}

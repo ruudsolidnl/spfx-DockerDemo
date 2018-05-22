@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-docker-demo-client-side-solution",
+    "id": "938e93a3-4030-4d24-a067-ff75581fdc2a",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-docker-demo.sppkg"
+  }
+}
